@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/fepegar/torchio-notebooks/blob/main/notebooks/TorchIO_MONAI_PyTorch_Lightning.ipynb#scrollTo=Q9ntjysIAQiS
